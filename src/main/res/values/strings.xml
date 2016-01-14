@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="face_app_id">775897365849050</string>
+    <string name="google_app_id">327363493994-3p3n44paqhlqm0vm0nhlrbs8b96qafg7.apps.googleusercontent.com</string>
+    <string name="user">Usuario</string>
+    <string name="email1">Correo Electrónico</string>
+    <string name="phone">Teléfono</string>
+    <string name="pass">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="reg">Registrarse</string>
+    <string name="message1">¡Ese usuario no se puede crear porque ya existe!</string>
+    <string name="message2">Usuario creado con éxito</string>
+    <string name="message3">Iniciando Sesión</string>
+    <string name="message4">Cerrando Sesión</string>
+    <string name="message5">No hay Usuario</string>
+    <string name="message6">Ocurrió un error no se pudo ingresar el usuario</string>
+    <string name="users">Usuario: </string>
+    <string name="email">E-mail: </string>
+
+</resources>
